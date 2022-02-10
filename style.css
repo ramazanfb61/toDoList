@@ -1,0 +1,27 @@
+#container {
+  border: 1px solid;
+  height: 500px;
+}
+
+#chores {
+  height: 90%;
+}
+
+#input {
+  height: 20%;
+  font-size: larger;
+}
+
+#input input {
+  font-size: larger;
+}
+
+#input button {
+  font-size: larger;
+}
+
+.item {
+  padding: 10px;
+  font-size: larger;
+}
+/*# sourceMappingURL=style.css.map */
